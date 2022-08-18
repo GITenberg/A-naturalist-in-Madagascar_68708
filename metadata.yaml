@@ -1,0 +1,27 @@
+_repo: A-naturalist-in-Madagascar_68708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sibree, James
+    gutenberg_agent_id: '54908'
+    url: http://www.gutenberg.org/2009/agents/54908
+description: ''
+gutenberg_issued: '2022-08-08'
+identifiers:
+  gutenberg: '68708'
+language: en
+pgterms:marc904: https://archive.org/details/naturalistinmada00sibriala
+pgterms:marc905: 20201024101022sibree
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: Peter Becker, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :J. B. Lippincott,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A naturalist in Madagascar
+url: http://www.gutenberg.org/ebooks/68708
